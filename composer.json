@@ -1,9 +1,9 @@
 {
-  "name": "kiwicom/loopbind",
+  "name": "drabek-digital/loopbind",
   "description": "\uD83D\uDEE0️️ CLI tool to easily bind localhost network interface with additional IP and ensure matching record in /etc/hosts.",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/kiwicom/loopbind",
+  "homepage": "https://github.com/DrabekDigital/loopbind",
   "authors": [
     {
       "name": "Jan Drábek",
