@@ -31,7 +31,7 @@ Required underlying utilities:
 
 Run
 ```bash
-composer global require kiwicom/loopbind
+composer global require drabek-digital/loopbind
 ```
 
 Then if you have composer bin directory on the `PATH` you can use it by calling `loopbind` in the CLI. So you can initialize the configuration with a CLI wizard:
